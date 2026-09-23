@@ -16,7 +16,7 @@ Project Statuses Used: Todo → In Progress → Review → Done
 
 Why is an Issue useful before implementation begins?
 
-Answer:An Issue helps plan the work before starting. It explains what needs to be done.
+Answer:An Issue helps plan the work before starting. It explains what needs to be done
 
 ## Question 2
 
@@ -28,7 +28,7 @@ Answer:Acceptance criteria show what I need to finish.
 
 Why should both the Issue and the Pull Request be tracked in the same GitHub Project?
 
-Answer:It keeps my work organized and shows my progress in one place.
+Answer:It keeps my work organized and shows my progress in one place
 
 ## Reflection
 
